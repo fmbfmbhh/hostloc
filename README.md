@@ -6,7 +6,7 @@
    
 2. 服务器脚本自动签到：
 
-   `wget https://raw.githubusercontent.com/ernisn/hostloc/master/hostloc.sh` 下载脚本；
+   `wget https://github.com/fmbfmbhh/hostloc/hostloc/master/hostloc.sh` 下载脚本；
    
    编辑脚本中的用户名和密码；
    
